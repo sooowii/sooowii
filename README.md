@@ -13,7 +13,7 @@
 
 ### Interest...
 - I am good at preparing materials such as PPT and like it.
-- Google Cloud Platform(Especially, BigQuery)
+- Naver blog Platform operation
 - Programming research
  
 Please check the table below for more details.
