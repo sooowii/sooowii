@@ -5,7 +5,16 @@
   </div>
 
  Hi there 👋
- 
+<div align="center">
+
+| 분야              	| 세부 내용                                           	| 
+|-------------------	|-----------------------------------------------------	|
+| ✍️ 블로그 & 글쓰기 	| 블로그를 통해 경험과 창작물을 기록하고 공유합니다.  	|     	 
+| 🤝 리더십 & 멘토링 	| 함께 성장하는 리더십과 협업 문화에 관심이 많습니다. 	|     
+| 🎨 디자인 & 예술   	| 포토샵과 일러스트로 창작 작업을 즐깁니다.           	|  
+
+</div>
+  		
  <div align=center>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100019610951409)](https://www.facebook.com/profile.php?id=100019610951409) 
