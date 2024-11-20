@@ -5,11 +5,12 @@
   </div>
 
  Hi there 👋
-
+ 
  <div align=center>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100019610951409)](https://www.facebook.com/profile.php?id=100019610951409) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/swim_1ng/)](https://www.instagram.com/swim_1ng/) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/channel/UCK-AnZDYWBG9wta0aNianHg?si=h00tSCoYE6ku7fue)](https://youtube.com/channel/UCK-AnZDYWBG9wta0aNianHg?si=h00tSCoYE6ku7fue)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:skyjsy0331@gmail.com)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/skyjsy0331)](https://blog.naver.com/skyjsy0331)
 
