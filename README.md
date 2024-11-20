@@ -5,16 +5,33 @@
   </div>
 
  Hi there 👋
+
+### Experiences...
+- I have won the SW invention contest at Korea University.
+- I went to Education Institute for Gifted for five years.
+- I studied for a long time before I came to university.
+
+### Interest...
+- I am good at preparing materials such as PPT and like it.
+- Google Cloud Platform(Especially, BigQuery)
+- Programming research
+ 
+Please check the table below for more details.
+
+
 <div align="center">
 
-| 분야              	| 세부 내용                                           	| 
-|-------------------	|-----------------------------------------------------	|
-| ✍️ 블로그 & 글쓰기 	| 블로그를 통해 경험과 창작물을 기록하고 공유합니다.  	|     	 
-| 🤝 리더십 & 멘토링 	| 함께 성장하는 리더십과 협업 문화에 관심이 많습니다. 	|     
-| 🎨 디자인 & 예술   	| 포토샵과 일러스트로 창작 작업을 즐깁니다.           	|  
+| Field              | Details                                             | 
+|------------------- |---------------------------------------------------- |
+| ✍️ Blog & Writing  | I record and share experiences and creations through my blog. |
+| 🤝 Leadership & Mentoring | I am interested in leadership and a culture of collaboration for growth. |
+| 🎨 Design & Art    | I enjoy creative work using Photoshop and Illustrator. |
 
 </div>
-  		
+
+
+</div>
+
  <div align=center>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100019610951409)](https://www.facebook.com/profile.php?id=100019610951409) 
