@@ -7,7 +7,7 @@
  Hi there 👋
 
 ### Experiences...
-- I have won the SW invention contest at Korea University.
+- I have won the SW invention contest at Korea University. Inventions were created using Arduino and C language.
 - I went to Education Institute for Gifted for five years.
 - I studied for a long time before I came to university.
 
