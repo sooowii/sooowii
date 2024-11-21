@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 👋 Name : Jeong SooYoung
 - 🪪 ID Number: 20242824
-- 📧 Email: skyjsy0331@gmail.com
+- 📧 Email: skyjsy0331@gmail.com / jssu3878@cau.ac.kr
 - 📞 Phone number: 010-4765-1099
 
 ### 🚀 Projects
